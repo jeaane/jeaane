@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 ¡Hola! Soy Jean
+## Hi there 👋 ¡Hola! Soy Jean
 
 🎓 Estudiante de **Ingeniería en Sistemas Informáticos** e **Ingeniería Financiera**.  
 💡 Apasionado por el desarrollo de interfaces, la programación y la creación de soluciones tecnológicas con impacto humano.  
