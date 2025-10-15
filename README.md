@@ -9,4 +9,4 @@
 
 ## 📫 Cómo contactarme
 
-- 💌 Email: [javiercalderon.sis25ch@tecba.edu.bo](mailto:tuemail@example.com)  <iframe src="https://assets.pinterest.com/ext/embed.html?id=210895195045783438" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+- 💌 Email: [javiercalderon.sis25ch@tecba.edu.bo](mailto:tuemail@example.com)  <img src="https://assets.pinterest.com/ext/embed.html?id=210895195045783438" height="445" width="345" frameborder="0" scrolling="no"/>
