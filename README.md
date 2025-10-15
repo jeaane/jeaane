@@ -9,4 +9,4 @@
 
 ## 📫 Cómo contactarme
 
-- 💌 Email: [javiercalderon.sis25ch@tecba.edu.bo](mailto:tuemail@example.com)  <img src="https://your-image-url.com/bunny.png" width="20"/>
+- 💌 Email: [javiercalderon.sis25ch@tecba.edu.bo](mailto:tuemail@example.com) <img src="https://your-image-url.com/bunny.png" width="250" alt="Conejito lindo"/>
